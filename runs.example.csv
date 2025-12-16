@@ -1,0 +1,9 @@
+date,city,temp_min_c,temp_max_c,rain_probability_pct,wind_kph,condition,source,retrieved_at,commute,sensitivity,tone
+2025-12-10,Nairobi,19.3,27.1,55.0,15.5,partly cloudy,MockProvider,2025-12-16T14:48:04.501690,walk,normal,concise
+2025-12-10,Mombasa,20.8,28.0,25.0,20.8,partly cloudy,MockProvider,2025-12-16T14:48:04.501707,walk,normal,concise
+2025-12-11,Nairobi,18.5,28.7,10.0,22.9,partly cloudy,MockProvider,2025-12-16T14:48:04.501720,walk,normal,concise
+2025-12-11,Mombasa,19.5,26.2,55.0,26.0,partly cloudy,MockProvider,2025-12-16T14:48:04.501729,walk,normal,concise
+2025-12-12,Nairobi,19.9,29.4,55.0,15.3,partly cloudy,MockProvider,2025-12-16T14:48:04.501741,walk,normal,concise
+2025-12-12,Mombasa,18.7,28.8,25.0,24.4,partly cloudy,MockProvider,2025-12-16T14:48:04.501750,walk,normal,concise
+2025-12-13,Nairobi,19.5,28.3,10.0,21.2,partly cloudy,MockProvider,2025-12-16T14:48:04.501759,walk,normal,concise
+2025-12-13,Mombasa,19.8,27.8,55.0,11.7,partly cloudy,MockProvider,2025-12-16T14:48:04.501764,walk,normal,concise
